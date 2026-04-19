@@ -5,8 +5,7 @@ A modern and responsive e-commerce web application built with React and Tailwind
 ---
 
 ## 🚀 Live Demo
-
-(ecommerce-app-khaki-phi.vercel.app)
+https://vercel.com/sabreen-abualkas-projects/ecommerce-app
 
 ---
 
