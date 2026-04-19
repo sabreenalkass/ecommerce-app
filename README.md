@@ -6,13 +6,13 @@ A modern and responsive e-commerce web application built with React and Tailwind
 
 ## 🚀 Live Demo
 
-(Add your Vercel link here later)
+(https://ecommerce-app.vercel.app)
 
 ---
 
 ## 📸 Preview
 
-(Add screenshots here)
+(App Preview](https://via.placeholder.com/800x400?text=E-Commerce+React+App)
 
 ---
 
