@@ -5,8 +5,7 @@ A modern and responsive e-commerce web application built with React and Tailwind
 ---
 
 ## 🚀 Live Demo
-https://vercel.com/sabreen-abualkas-projects/ecommerce-app
-
+ecommerce-8v3m7r386-sabreen-abualkas-projects.vercel.app
 ---
 
 ## ⚙️ Tech Stack
